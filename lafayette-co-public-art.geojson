@@ -1462,6 +1462,25 @@
                 "year": null
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.10903358459,
+                    39.99408720573
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "W Emma St Parking Lot",
+                "artist": "Mongo Love",
+                "collection": "Crowdsourced",
+                "image": "",
+                "media": "Sculpture",
+                "title": "Waneka Lake Tree sculpture",
+                "year": 2014
+            },
+            "type": "Feature"
         }
     ],
     "type": "FeatureCollection"
