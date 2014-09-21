@@ -845,5 +845,16 @@
         "media": "Sculpture",
         "title": "Whimsy",
         "year": null
+    },
+    {
+        "address": "W Emma St Parking Lot",
+        "artist": "Bongo Love",
+        "collection": "Crowdsourced",
+        "image": "",
+        "latitude": 39.99408720573,
+        "longitude": -105.10903358459,
+        "media": "Sculpture",
+        "title": "Waneka Lake Tree sculpture",
+        "year": 2014
     }
 ]
